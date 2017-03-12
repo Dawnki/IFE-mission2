@@ -1,0 +1,59 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #E3E3E3;
+}
+
+.top{
+	background: #211F1F;
+}
+
+.top ul{
+	float: right;
+	padding: 0px;
+	margin: 0px;
+}
+
+.top li{
+	float: left;
+	margin: 15px;
+}
+
+.top li p{
+	color: #FFFFFF;
+	margin,padding: 0px;
+}
+
+.logo{
+	height: 70px;
+	left: 0;
+	display: inline;
+}
+
+.content{
+	
+	height: 1000px;
+}
+
+
+.content .box{
+	margin: 30px auto;
+	width: 95%;
+	box-shadow: 4px 4px 1px #888888;
+	background: #FFFFFF;
+}
+
+
+.box h1, .box h2,.box h3{
+	width: 95%;
+	margin: 10px;
+}
+
+.box h2,.box h3{
+	color: #B1B1B1;
+}
+
+.box p{
+	text-indent: 2em;
+	margin: 10px;
+}
